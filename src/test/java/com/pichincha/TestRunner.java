@@ -13,23 +13,4 @@ class TestRunner {
                 .tags("~@ignore");
     }
 
-    @Karate.Test
-    Karate testObtenerPersonajes() {
-        return Karate.run("classpath:com/pichincha/features/marvel_characters_api/obtenerPersonajes.feature");
-    }
-
-    @Karate.Test
-    Karate testCrearPersonajes() {
-        return Karate.run("classpath:com/pichincha/features/marvel_characters_api/crearPersonajes.feature");
-    }
-
-    @Karate.Test
-    Karate testActualizarPersonajes() {
-        return Karate.run("classpath:com/pichincha/features/marvel_characters_api/actualizarPersonajes.feature");
-    }
-
-    @Karate.Test
-    Karate testEliminarPersonajes() {
-        return Karate.run("classpath:com/pichincha/features/marvel_characters_api/eliminarPersonajes.feature");
-    }
 }
