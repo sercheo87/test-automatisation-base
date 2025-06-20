@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Captain America",
+    "alterego": "Steve Rogers",
+    "description": "Super-soldier with enhanced abilities",
+    "powers": [
+      "Super strength",
+      "Shield mastery",
+      "Leadership"
+    ]
+  },
+  {
+    "name": "Thor",
+    "alterego": "Thor Odinson",
+    "description": "Asgardian God of Thunder",
+    "powers": [
+      "Lightning",
+      "Super strength",
+      "Mjolnir"
+    ]
+  },
+  {
+    "name": "Hulk",
+    "alterego": "Bruce Banner",
+    "description": "Scientist with incredible strength when angry",
+    "powers": [
+      "Super strength",
+      "Regeneration",
+      "Invulnerability"
+    ]
+  }
+]

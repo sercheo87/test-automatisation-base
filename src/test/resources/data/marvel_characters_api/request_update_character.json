@@ -1,0 +1,10 @@
+{
+  "name": "Spider-Man",
+  "alterego": "Peter Parker",
+  "description": "Your friendly neighborhood Spider-Man",
+  "powers": [
+    "Web-slinging",
+    "Wall-crawling",
+    "Spider-sense"
+  ]
+}
